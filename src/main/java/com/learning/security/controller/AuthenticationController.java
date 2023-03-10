@@ -4,7 +4,6 @@ import com.learning.security.payload.request.AuthenticationRequest;
 import com.learning.security.payload.request.RegisterRequest;
 import com.learning.security.payload.response.AuthenticationResponse;
 import com.learning.security.service.AuthenticationService;
-import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
